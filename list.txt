@@ -1,0 +1,13 @@
+#Ders-Sayfa-QRsayısı:Link/Tür
+
+TR-16-1:https://youtu.be/1d3rugfaRxs
+TR-36-1:PDF
+TR-37-1:https://youtu.be/At_rpAdd7V8
+TR-40-1:PDF
+TR-51-1:https://youtu.be/bHNvMj8NDZ4
+TR-57-1:PDF
+TR-58-1:https://youtu.be/6xiTami_Nwg
+TR-58-2:PDF
+TR-63-1:https://youtu.be/VZjOjcDgh14
+TR-67-1:https://youtu.be/Q_BQrdpdiZY
+TR-70-1:PDF
