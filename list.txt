@@ -21,4 +21,4 @@ TR-138-1:https://ders.eba.gov.tr/ders//redirectContent.jsp?resourceId=5b32b4b861
 TR-142-1:https://youtu.be/f4u2bxtchZ8
 TR-143-1:https://youtu.be/Yh7pCk18Jj0
 TR-148-1:PDF
-TR-233-1:SEX
+TR-233-1:PDF
