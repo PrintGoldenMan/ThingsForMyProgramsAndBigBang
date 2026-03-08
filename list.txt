@@ -21,3 +21,13 @@ TR-138-1:https://ders.eba.gov.tr/ders//redirectContent.jsp?resourceId=5b32b4b861
 TR-142-1:https://youtu.be/f4u2bxtchZ8
 TR-143-1:https://youtu.be/Yh7pCk18Jj0
 TR-148-1:PDF
+TR-149-1:PDF
+TR-162-1:https://youtu.be/hFdSWDtDuy4
+TR-169-1:https://youtu.be/CuytdnLlxSk
+TR-192-1:https://youtu.be/I25E47o8T7o
+TR-192-2:https://youtu.be/n4VsZI_jSno
+TR-199-1:https://youtu.be/mpAcEoHFrdQ
+TR-200-1:https://youtu.be/EdrpNQNZEdY
+TR-207-1:https://youtu.be/m7hMbqA7MeM
+TR-216-1:PDF
+TR-231-1:https://youtu.be/hfNC9wZmGrE
